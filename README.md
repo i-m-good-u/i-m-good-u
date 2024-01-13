@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-m-good-u](https://github.com/i-m-good-u)
 
-- 💬 Ask me about **JAVA, DSA, SQL, SPRINGBOOT, HIBERNATE**
+- 💬 Ask me about **JAVA, DSA, SQL, SPRING BOOT, HIBERNATE, MULTITHREADING**
 
 - 📫 How to reach me **guddukumar032002@gmail.com**
 
