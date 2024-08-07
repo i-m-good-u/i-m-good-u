@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_m_good_u" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_good_u?logo=twitter&style=for-the-badge" alt="i_m_good_u" /></a> </p>
 
-- 🌱 SOFTWARE DEVELOPER(BACKEND)**LEARNING(Full Stack Development)**
+- 🌱 BACKEND DEVELOPER
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-m-good-u](https://github.com/i-m-good-u)
 
