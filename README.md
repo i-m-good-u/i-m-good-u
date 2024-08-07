@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **guddukumar032002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DDjGG2WgULc_slkqb0ScOB3Jpdenjjj4/view?usp=sharing](https://drive.google.com/file/d/1DDjGG2WgULc_slkqb0ScOB3Jpdenjjj4/view?usp=sharing)
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **I am not different from the world, but definitely my world is different.**
 
