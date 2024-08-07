@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/i_m_good_u" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_good_u?logo=twitter&style=for-the-badge" alt="i_m_good_u" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 SOFTWARE DEVELOPER(BACKEND)**LEARNING(Full Stack Development)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-m-good-u](https://github.com/i-m-good-u)
 
-- 💬 Ask me about **JAVA, DSA, SQL, SPRING BOOT, HIBERNATE, MULTITHREADING**
+- 💬 Ask me about **CORE JAVA, DSA, SQL, SPRING BOOT, HIBERNATE, KAFKA, REDIS, MICROSERVICES, DBMS, CODE OPTIMIZATION**
 
 - 📫 How to reach me **guddukumar032002@gmail.com**
 
