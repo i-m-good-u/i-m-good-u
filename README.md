@@ -1,38 +1,77 @@
-<h1 align="center">Hi 👋, I'm GUDDU KUMAR</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-good-u&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-good-u" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=3DF28B&center=true&vCenter=true&width=600&lines=guddu%40bengaluru%3A~%24+whoami;Backend+Engineer+%C2%B7+AI+Agents;Distributed+Systems+%C2%B7+Java+%C2%B7+Python;systems+that+don't+go+down." alt="typing intro" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-m-good-u" alt="i-m-good-u" /></a> </p>
+**I build AI agents & distributed systems that don't go down.**
 
-<p align="left"> <a href="https://twitter.com/i_m_good_u" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_good_u?logo=twitter&style=for-the-badge" alt="i_m_good_u" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/imgood.in-visit_portfolio-3DF28B?style=for-the-badge&logo=googlechrome&logoColor=0a0e12&labelColor=0a0e12&color=3DF28B)](https://imgood.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-56C8FF?style=for-the-badge&logo=linkedin&logoColor=0a0e12&labelColor=0a0e12&color=56C8FF)](https://linkedin.com/in/i-m-good-u)
+[![Email](https://img.shields.io/badge/email-say_hi-A78BFA?style=for-the-badge&logo=gmail&logoColor=0a0e12&labelColor=0a0e12&color=A78BFA)](mailto:guddukumar032002@gmail.com)
+[![Resume](https://img.shields.io/badge/resume-download-FFB454?style=for-the-badge&logo=readdotcv&logoColor=0a0e12&labelColor=0a0e12&color=FFB454)](https://imgood.in/Guddu_Kumar_Resume.pdf)
 
-- 🌱 BACKEND DEVELOPER
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/i-m-good-u](https://github.com/i-m-good-u)
+```console
+guddu@bengaluru:~$ cat about.md
+# Software Engineer I @ Eloelo Group (Bengaluru)
 
-- 💬 Ask me about **CORE JAVA, DSA, SQL, SPRING BOOT, HIBERNATE, KAFKA, REDIS, MICROSERVICES, DBMS, CODE OPTIMIZATION**
+→ Primary author of Pilot — a production LangGraph AI chat agent that plans &
+  dispatches video/image/audio generation across 25+ models and 6+ AI vendors
+→ Shipped Snappeats solo — meal-subscription platform live on Google Play:
+  5 Spring Boot services, Terraform-defined AWS, ~780 tests
+→ Built realtime systems for 300K+ members/channel over MQTT + Kafka
 
-- 📫 How to reach me **guddukumar032002@gmail.com**
+guddu@bengaluru:~$ cat philosophy.txt
+horizontally scalable systems · idempotent debits · weekends on a motorcycle
+```
 
-- 📄 Know about my experiences []()
+## ⚡ currently shipping
 
-- ⚡ Fun fact **I am not different from the world, but definitely my world is different.**
+| project | what it is | stack |
+|---|---|---|
+| 🤖 **[Pilot](https://www.trydolphin.ai/studio)** | Production LangGraph chat agent — plan → confirm → execute, DB-as-state, crash-resilient | LangGraph · Python · Bedrock · Claude · Gemini |
+| 🍱 **[Snappeats](https://play.google.com/store/apps/details?id=com.snappeats)** | Meal-subscription & delivery platform, architected and shipped solo — live on Google Play | Java 21 · Spring Boot · AWS ECS · Terraform · Razorpay |
+| 💻 **[imgood.in](https://imgood.in)** | This terminal-themed portfolio — press `/` on the site and try `sudo hire-me` | React 19 · Tailwind v4 · GSAP |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_m_good_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_m_good_u" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/i-m-good-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-m-good-u" height="30" width="40" /></a>
-<a href="https://instagram.com/i_m_good_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_good_u" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/i_m_good_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="i_m_good_u" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i_m_good_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_m_good_u" height="30" width="40" /></a>
-</p>
+## 🛠 stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+![Java](https://img.shields.io/badge/Java_21-0a0e12?style=flat-square&logo=openjdk&logoColor=3DF28B)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0e12?style=flat-square&logo=springboot&logoColor=3DF28B)
+![Python](https://img.shields.io/badge/Python-0a0e12?style=flat-square&logo=python&logoColor=3DF28B)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0e12?style=flat-square&logo=fastapi&logoColor=3DF28B)
+![LangGraph](https://img.shields.io/badge/LangGraph-0a0e12?style=flat-square&logo=langchain&logoColor=56C8FF)
+![AWS Bedrock](https://img.shields.io/badge/Bedrock-0a0e12?style=flat-square&logo=amazonwebservices&logoColor=56C8FF)
+![Kafka](https://img.shields.io/badge/Kafka-0a0e12?style=flat-square&logo=apachekafka&logoColor=56C8FF)
+![MQTT](https://img.shields.io/badge/MQTT-0a0e12?style=flat-square&logo=eclipsemosquitto&logoColor=56C8FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e12?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0e12?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![Redis](https://img.shields.io/badge/Redis-0a0e12?style=flat-square&logo=redis&logoColor=A78BFA)
+![AWS](https://img.shields.io/badge/AWS-0a0e12?style=flat-square&logo=amazonwebservices&logoColor=FFB454)
+![Terraform](https://img.shields.io/badge/Terraform-0a0e12?style=flat-square&logo=terraform&logoColor=FFB454)
+![Docker](https://img.shields.io/badge/Docker-0a0e12?style=flat-square&logo=docker&logoColor=FFB454)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0e12?style=flat-square&logo=githubactions&logoColor=FFB454)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-m-good-u&show_icons=true&locale=en&layout=compact" alt="i-m-good-u" /></p>
+## 📊 stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-m-good-u&show_icons=true&locale=en" alt="i-m-good-u" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-good-u&" alt="i-m-good-u" /></p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=i-m-good-u&show_icons=true&hide_border=true&bg_color=0a0e12&title_color=3DF28B&text_color=8398ad&icon_color=56C8FF&ring_color=3DF28B" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-m-good-u&layout=compact&hide_border=true&bg_color=0a0e12&title_color=3DF28B&text_color=8398ad" alt="top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-m-good-u&hide_border=true&background=0a0e12&ring=3DF28B&fire=FFB454&currStreakLabel=3DF28B&sideLabels=8398ad&currStreakNum=d7e2ee&sideNums=d7e2ee&dates=74879a" alt="streak" />
+
+</div>
+
+```console
+guddu@bengaluru:~$ ping guddu
+64 bytes from bengaluru: icmp_seq=1 ttl=420 time=0.042 ms — always up.
+
+guddu@bengaluru:~$ sudo hire-me
+[sudo] authentication successful → guddukumar032002@gmail.com
+```
+
+<div align="center">
+
+**`code ✦ ai agents ✦ bike rides ✦ iron ✦ bengaluru`**
+
+</div>
